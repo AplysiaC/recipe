@@ -3,5 +3,4 @@
 * avocado
 * lemon
 * salt
-* shit
 ## instructions
