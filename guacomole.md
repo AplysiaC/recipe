@@ -1,7 +1,7 @@
 # Guacamole
 ## ingredients
-* avocado
-* grape
+* avocado * 3
+* lime * 2
 * salt
 a bad ingredient like mice fur
 ## instructions
